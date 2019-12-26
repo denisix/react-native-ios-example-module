@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-example-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,9 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.61.5"
   },
   "devDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.61.5"
   }
 }
