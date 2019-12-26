@@ -1,15 +1,15 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeIosExampleModule"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RNReactNativeIosExampleModule"
   s.description  = <<-DESC
                   RNReactNativeIosExampleModule
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/denisix/react-native-ios-example-module"
   s.license      = "MIT"
-  s.author             = { "author" => "author@domain.cn" }
-  s.platform     = :ios, "7.0"
+  s.author       = { "author" => "denisi@gmail.com" }
+  s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/denisix/react-native-ios-example-module", :tag => "master" }
   s.source_files  = "RNReactNativeIosExampleModule/**/*.{h,m}"
   s.requires_arc = true
