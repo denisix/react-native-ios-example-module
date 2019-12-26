@@ -1,11 +1,10 @@
-
 #import "RNReactNativeIosExampleModule.h"
 
 @implementation RNReactNativeIosExampleModule
 
 RCT_EXPORT_MODULE();
 
-RCT_EXPORT_METHOD(getSomeString: (RCTResponseSenderBlock)callback )
+RCT_EXPORT_METHOD(getSomeString:(RCTResponseSenderBlock)callback)
 {
   NSString* someString = @"something from native code";
   
